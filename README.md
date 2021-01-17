@@ -26,7 +26,6 @@
 <code><img height="20" src="https://www.kindpng.com/picc/m/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png"></code>
 <code><img height="20" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
-
 <code><img height="20" src="https://icon2.cleanpng.com/20180705/ok/kisspng-google-cloud-platform-cloud-computing-google-searc-5b3ee51fa96857.2438006715308485436939.jpg"></code>
 <code><img height="20" src="https://miro.medium.com/max/4392/1*iaH9co5CxNPD2cx1VNCYKQ.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -34,21 +33,7 @@
 
 
 ![Hameem's Github Stats](https://github-readme-stats.vercel.app/api?username=asirhameem&show_icons=true)
-<!--
 
-**asirhameem/asirhameem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 **asirhameem/asirhameem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
