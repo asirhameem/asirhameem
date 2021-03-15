@@ -33,9 +33,9 @@
 
 ![Hameem's Github Stats](https://github-readme-stats.vercel.app/api?username=asirhameem&show_icons=true)
 
+<!-- **asirhameem/asirhameem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asirhameem&langs_count=5&layout=compact&theme=tokyonight)
-<!--
-**asirhameem/asirhameem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
