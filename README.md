@@ -12,7 +12,7 @@
 - 📫 Please email via asirhameem@gmail.com to reach me.
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
@@ -28,7 +28,7 @@
 <code><img height="20" src="https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 
 
 <!-- ![Hameem's Github Stats](https://github-readme-stats.vercel.app/api?username=asirhameem&show_icons=true) -->
