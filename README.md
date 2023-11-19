@@ -5,7 +5,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Blockchain, Machine Learning; 
+- 🌱 I’m currently learning Blockchain Technologies; 
 - 🤔 My interests are with Deep Learning, Blockchain, Web Technologies, etc...;
 - 💼 I'm pursuing a Bachelor's degree in Computer Science & Engineering;
 - 💬 Ask me about anything, I am happy to help;
